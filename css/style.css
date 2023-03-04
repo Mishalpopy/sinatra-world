@@ -968,7 +968,7 @@ z-index: 10;
 .intro {
 position: absolute;
 left: 35px;
-bottom: 80px;
+bottom: 180px;
 }
 
 @media all and (min-width: 1920px) {
@@ -1011,7 +1011,7 @@ font-size: 50px;
 font-weight: 700;
 font-style: normal;
 letter-spacing: 1px;
-margin-bottom: 20px;
+margin-bottom: 90px;
 width: 60%;
 line-height: 1;
 
